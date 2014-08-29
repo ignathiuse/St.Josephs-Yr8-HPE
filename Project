@@ -1,0 +1,74 @@
+</head>
+<body>
+<div id="wrapper">
+	<div id="menu" class="container">
+		<ul>
+			<li class="current_page_item"><a href="#">Homepage</a></li>
+			<li><a href="http://www.notesdesk.com/notes/business-communications/types-of-communication/">Types of Communication</a></li>
+			<li><a href="http://www.stroke4carers.org/?p=280">Ways We Communicate<a/></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href="#">Communication of Young People</a></h1>
+			<p>...and Their Relationships</p>
+		</div>
+		<div id="banner"> <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a> </div>
+	</div>
+	<div id="welcome" class="container">
+		<div class="title">
+			<h2>Modern Communication ...</h2>
+		<p><span class "byline" The Whos,The Whats,and The Hows</span></div></p>
+		<p>Our modern forms of communication are largely varient compared to those 20 or even 10 years ago,With services like Facebook, Twitter,Skype and may others are used by billions of peole everday, and the usiversal language of codeing is becomeing even more used by average people to chang the way we see ourworld. And now more tan 50% of all Americans prefer communicating elecronically rather than normally.</p>
+	</div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="title">
+				<h2>Some Usefull Links ...</h2>
+				<span class="byline">At Least We found them usefull</span> </div>
+			<span class="image image-full"><img src="images/pic01.jpg" alt="" /></span>
+			<p>On the side of the page we have research, and found some links relating to the communication of young people and we hope you find the usefull. </p>
+			<p>We have taken as much care as we can to find viable infromation from sources we believe 
+			would be usefull, and from institutes or peoples we trust.And although our links sholud be usefull and and correct we cant be held resposible if the information is dated.</p>
+		</div>
+		<div id="sidebar">
+			<div class="box1">
+				<div class="title">
+					<h2>Links for Social,Emotionals Problems or Social Disabilities</h2>
+				</div>
+				<ul class="style2">
+					<li><a href="#">Anxiety.</a></li>
+					<li><a href="#">Aspergers.</a></li>
+					<li><a href="#">Bipolar.</a></li>
+					<li><a href="#">Bully.</a></li>
+					<li><a href="#">Bullied.</a></li>
+					<li><a href="#">Depression.</a></li>
+				</ul>
+			</div>
+			<div class="box2">
+				<div class="title">
+					<h2>Modern Communcation.</h2>
+				</div>
+				<ul class="style2">
+					<li><a href="#">Adapting to a New Social Group.</a></li>
+					<li><a href="#">Forms of Comunication.</a></li>
+					<li><a href="#">Makeing New Friends.</a></li>
+					<li><a href="#">Pros and Cons of Social Media.</a></li>
+					<li><a href="#">Talking to an Adult.</a></li>
+					<li><a href="#">Statistics.</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer-wrapper">
+	<div id="footer" class="container">
+		<h2>Sorry for it Being Late it Took a While to Do!</h2>
+	</div>
+</div>
+<div id="copyright" class="container">
+	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> |</a>.</p>
+</div>
+</body>
+</html>
